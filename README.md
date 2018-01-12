@@ -1,6 +1,6 @@
 # Shoopse 
 
-* This page is online shoes shoping mall site
+* This page is online shoes shopping mall site
 
 
 ## Stack
