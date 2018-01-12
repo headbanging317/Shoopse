@@ -8,7 +8,7 @@
 * Spring Framework
 * MyBatis
 * jQuery
-* BootStrap
+* Bootstrap
 * Oracle DB
 
 
