@@ -15,4 +15,4 @@
 
 ## My part of this project
 
-* USER info CRUD in administrator page
+* USER information CRUD in administrator page
