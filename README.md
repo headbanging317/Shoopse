@@ -1,3 +1,3 @@
-# Shoopse [![GoDoc](https://godoc.org/github.com/fatih/color?status.svg)](https://godoc.org/github.com/fatih/color) [![Build Status]
+# Shoopse 
 
 This page is online shoes shoping mall site
