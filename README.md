@@ -2,8 +2,6 @@
 
 This page is online shoes shoping mall site
 
-## Quick start
+# Stack
 
-```bash
-
-```
+Spring Framework, jQuery, MyBatis, Oracle DB
