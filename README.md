@@ -5,7 +5,11 @@
 
 ## Stack
 
-* Spring Framework, MyBatis, jQuery, BootStrap, Oracle DB
+* Spring Framework
+* MyBatis
+* jQuery
+* BootStrap
+* Oracle DB
 
 
 
