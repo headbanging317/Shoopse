@@ -15,4 +15,8 @@
 
 ## My part of this project
 
-* USER information CRUD in administrator page
+* Project Leader
+* User information CRUD in administrator page
+* User order information
+* DataBase design(altogether)
+* etc..
