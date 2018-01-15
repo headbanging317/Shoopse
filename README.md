@@ -23,4 +23,4 @@
 * Etc..
 
 ## Look
-![screensh](./images)
+![Main Page](./images/i1.JPG)
