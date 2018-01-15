@@ -1,7 +1,7 @@
 # Shoopse 
 
 * This page is online shoes shopping mall site
-
+* A project i made while attending a academy
 
 ## Stack
 
