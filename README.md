@@ -20,4 +20,4 @@
 * User information CRUD in administrator page
 * User order information
 * DataBase design(altogether)
-* etc..
+* Etc..
