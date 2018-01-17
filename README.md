@@ -22,6 +22,13 @@
 * DataBase design(altogether)
 * Etc..
 
+## DB design
+
+![db1](./images/DB.JPG)
+
+![db2](./images/DB2.JPG)
+
+
 ## Look
 
 ![1](./images/i1.JPG)
