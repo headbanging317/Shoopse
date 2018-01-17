@@ -24,9 +24,9 @@
 
 ## DB design
 
-![db1](./images/DB.JPG)
+![db1](./images/DB.jpg)
 
-![db2](./images/DB2.JPG)
+![db2](./images/DB2.jpg)
 
 
 ## Look
