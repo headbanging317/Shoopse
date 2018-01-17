@@ -1,7 +1,7 @@
 # Shoopse 
 
 * This page is online shoes shopping mall site
-
+* A project i made while attending a academy
 
 ## Stack
 
@@ -20,4 +20,16 @@
 * User information CRUD in administrator page
 * User order information
 * DataBase design(altogether)
-* etc..
+* Etc..
+
+## Look
+
+![1](./images/i1.JPG)
+
+![2](./images/i2.JPG)
+
+![3](./images/i3.JPG)
+
+![4](./images/i4.JPG)
+
+![5](./images/i5.JPG)
